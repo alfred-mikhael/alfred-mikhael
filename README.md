@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @SlothfulAlfred
-- 👀 I’m interested in algorithm design and mobile development. 
-- 🌱 I’m currently learning mobile development using flutter/dart. 
-- 💞️ I’m looking to collaborate on simple beginner level projects written in C++/python/dart.
+- 👋 Hi, I’m Alfred Mikhael
+- 👀 I’m interested in machine learning and mathematics. 
+- 🌱 I’m currently learning web development using React.js. 
 - 📫 You can reach me by email at alfred1.mikhael@gmail.com 
